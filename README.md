@@ -1,2 +1,2 @@
-# Random-Quote-Generator1
- Persola project for FreeCodeCamp
+# [Random-Quote-Generator1]
+ (https://yuukidiv.github.io/Random-Quote-Generator/)
